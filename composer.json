@@ -1,5 +1,5 @@
 {
-    "name": "ocramius/package-versions",
+    "name": "bafs/package-versions",
     "description": "Provides efficient querying for installed package versions (no runtime IO)",
     "type": "library",
     "license": "MIT",
